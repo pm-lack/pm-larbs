@@ -4,6 +4,7 @@
 ,xorg-xinit,"starts the graphical server."
 ,xorg-xset,"utility for configuring and ajusting X server"
 ,polkit,"manages user policies."
+,vim,"if you don't know what vim is, you shouldn't be here"
 ,libertinus-font,"provides the sans and serif fonts for LARBS."
 ,ttf-font-awesome,"provides extended glyph support."
 ,ttf-dejavu,"properly displays emojis."
