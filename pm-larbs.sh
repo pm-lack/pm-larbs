@@ -258,6 +258,9 @@ rm -rf "/home/$name/.git/" "/home/$name/README.md" "/home/$name/LICENSE" "/home/
 # Set background
 setbg /home/$name/.local/share/kurisu.png
 
+# Make cpu script runable
+chmod +x /home/$name/.local/bin/statusbar/sb-cpu1
+
 # Most important command! Get rid of the beep!
 rmmod pcspkr
 echo "blacklist pcspkr" >/etc/modprobe.d/nobeep.conf
