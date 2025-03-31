@@ -19,7 +19,7 @@ Common
 - Mod+space,            Make selected window the master
 - Mod+h,                Decrease width of master window
 - Mod+l,                Increase width of master window
-- Mod+z,                Increase= gaps (may also hold Mod and scroll mouse)
+- Mod+z,                Increase gaps (may also hold Mod and scroll mouse)
 - Mod+x,                Decrease gaps (may also hold Mod and scroll mouse)
 - Mod+a,                Toggle gaps
 - ModShift+a,           Default gaps
