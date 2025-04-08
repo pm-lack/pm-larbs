@@ -8,6 +8,8 @@ As root;
 
 ## Keybinds
 
+Pull up tutorial doc at anytime with Mod+F1
+
 Common
 - Mod+Enter,            Spawn terminal (the default terminal is st)
 - Mod+q,                Close window
