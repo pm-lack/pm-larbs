@@ -86,6 +86,9 @@ Don't forget to install kernel modules;
 # yay -S nvidia-dkms
 ```
 
+## My gecko-based user.js
+[pm-betterfox.js](https://github.com/pm-lack/pm-betterfox.js)
+
 ## Credit
 - [placemouse](https://github.com/bakkeby/patches/wiki/placemouse) 
 - [focusfollowmouse](https://github.com/bakkeby/patches/wiki/focusfollowmouse) (some people find this controversial, so if you don't want this replace dwm.c with dwm.c.bak)
