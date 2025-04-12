@@ -6,6 +6,9 @@ As root;
 # sh pm-larbs.sh
 ```
 
+## Screenshot
+![Image text](https://github.com/pm-lack/pm-larbs/blob/main/screenshot.png)
+
 ## Keybinds
 
 Pull up tutorial doc at anytime with Mod+F1
