@@ -96,7 +96,7 @@ Don't forget to install kernel modules;
 
 ## Credit
 - [placemouse](https://github.com/bakkeby/patches/wiki/placemouse) 
-- [focusfollowmouse](https://github.com/bakkeby/patches/wiki/focusfollowmouse) (some people find this controversial, so if you don't want this replace dwm.c with dwm.c.bak)
+- [focusfollowmouse](https://github.com/bakkeby/patches/wiki/focusfollowmouse)
 
  [Courtesys to Luke Smith](https://github.com/lukesmithxyz/dwm)
 - [statuscmd](https://dwm.suckless.org/patches/statuscmd/) 
