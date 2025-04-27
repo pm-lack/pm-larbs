@@ -96,7 +96,8 @@ Don't forget to install kernel modules;
 
 ## Credit
 - [placemouse](https://github.com/bakkeby/patches/wiki/placemouse) 
-- [focusfollowmouse](https://github.com/bakkeby/patches/wiki/focusfollowmouse)
+- [focusfollowmouse](https://github.com/bakkeby/patches/wiki/focusfollowmouse) (modified to only follow mouse focus after closing a window)
+- [statusallmons](https://dwm.suckless.org/patches/statusallmons/) 
 
  [Courtesys to Luke Smith](https://github.com/lukesmithxyz/dwm)
 - [statuscmd](https://dwm.suckless.org/patches/statuscmd/) 
