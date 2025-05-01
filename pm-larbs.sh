@@ -256,7 +256,9 @@ putgitrepo "$dotfilesrepo" "/home/$name" "$repobranch"
 rm -rf "/home/$name/.git/" "/home/$name/README.md" "/home/$name/LICENSE" "/home/$name/FUNDING.yml"
 
 # Set background
-setbg /home/$name/.local/share/kurisu.png
+wpg-install.sh -g
+mv /home/$name/.local/share/kurisu.png /home/$name/kurisu.png
+setbg /home/$name/kurisu.png
 
 # Make cpu script runable
 chmod +x /home/$name/.local/bin/statusbar/sb-cpu1
