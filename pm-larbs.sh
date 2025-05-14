@@ -301,6 +301,7 @@ echo "kernel.dmesg_restrict = 0" > /etc/sysctl.d/dmesg.conf
 
 # Cleanup
 rm -f /etc/sudoers.d/pm-larbs-temp
+yay -Qtdq | xargs -r yay -Rns --noconfirm
 
 # Last message! Install complete!
 finalize
