@@ -84,13 +84,6 @@ Audio
 - ModShift+equal,       Increase volume 15%
 - ModShift+m,           Mute all audio
 
-## For nvidia users,
-
-Don't forget to install kernel modules;
-```
-# yay -S nvidia-dkms
-```
-
 ## My gecko-based user.js
 [pm-betterfox.js](https://github.com/pm-lack/pm-betterfox.js)
 
