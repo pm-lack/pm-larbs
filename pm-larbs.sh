@@ -263,6 +263,9 @@ setbg /home/$name/kurisu.png
 # Rebuild font cache
 fc-cache -fv
 
+# Check for nvidia GPU and install nvidia drivers
+lspci | grep -E "VGA|3D" | grep -q "NVIDIA" && yay -S --noconfirm nvidia-dkms
+
 # Make cpu script runable
 chmod +x /home/$name/.local/bin/statusbar/sb-cpu1
 
