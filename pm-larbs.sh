@@ -260,6 +260,9 @@ wpg-install.sh -g
 mv /home/$name/.local/share/kurisu.png /home/$name/kurisu.png
 setbg /home/$name/kurisu.png
 
+# Rebuild font cache
+fc-cache -fv
+
 # Make cpu script runable
 chmod +x /home/$name/.local/bin/statusbar/sb-cpu1
 
