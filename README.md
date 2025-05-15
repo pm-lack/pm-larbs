@@ -8,6 +8,7 @@ As root;
 
 ## Screenshot
 ![Image text](https://github.com/pm-lack/pm-larbs/blob/main/screenshot2.png)
+![Image](https://github.com/pm-lack/pm-larbs/blob/main/screenshot2.png)
 
 ## Keybinds
 
