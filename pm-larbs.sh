@@ -263,6 +263,11 @@ setbg /home/$name/kurisu.png
 # Rebuild font cache
 fc-cache -fv
 
+# Host blocker
+curl -LO https://raw.githubusercontent.com/pm-lack/hosts/refs/heads/master/hosts
+cat ./hosts >> /etc/hosts
+rm -f ./hosts
+
 # Check for nvidia GPU and install nvidia drivers
 if lspci | grep -E "VGA|3D" | grep -q "NVIDIA"; then
   yay -S --noconfirm nvidia-dkms
