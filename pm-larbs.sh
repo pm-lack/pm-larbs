@@ -273,8 +273,8 @@ if lspci | grep -E "VGA|3D" | grep -q "NVIDIA"; then
   yay -S --noconfirm nvidia-dkms
 fi
 
-# Make cpu script runable
-chmod +x /home/$name/.local/bin/statusbar/sb-cpu1
+# Make scripts runable
+chmod +x /home/$name/.local/bin/statusbar/sb-*
 
 # Most important command! Get rid of the beep!
 rmmod pcspkr
