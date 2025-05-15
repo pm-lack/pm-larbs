@@ -6,7 +6,7 @@ As root;
 # sh pm-larbs.sh
 ```
 
-## Screenshot
+## Screenshots
 ![ScreenShot](https://raw.githubusercontent.com/pm-lack/pm-larbs/refs/heads/main/screenshot2.png)
 ![ScreenShot](https://raw.githubusercontent.com/pm-lack/pm-larbs/refs/heads/main/screenshot.png)
 
