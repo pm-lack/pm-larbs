@@ -87,7 +87,7 @@ Audio
 
 ## Notes
 - [pm-betterfox.js](https://github.com/pm-lack/pm-betterfox.js) My gecko-based user.js
-- Don't forget to the proprietary NVIDIA driver; nvidia-drm.modeset=1
+- Don't forget to enable the proprietary NVIDIA driver; nvidia-drm.modeset=1
 
 ## Credit
 - [placemouse](https://github.com/bakkeby/patches/wiki/placemouse) 
