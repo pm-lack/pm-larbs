@@ -86,8 +86,8 @@ Audio
 - ModShift+m,           Mute all audio
 
 ## Notes
-[pm-betterfox.js](https://github.com/pm-lack/pm-betterfox.js) My gecko-based user.js
-Don't forget to the proprietary NVIDIA driver; nvidia-drm.modeset=1
+- [pm-betterfox.js](https://github.com/pm-lack/pm-betterfox.js) My gecko-based user.js
+- Don't forget to the proprietary NVIDIA driver; nvidia-drm.modeset=1
 
 ## Credit
 - [placemouse](https://github.com/bakkeby/patches/wiki/placemouse) 
