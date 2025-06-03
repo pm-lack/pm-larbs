@@ -85,8 +85,9 @@ Audio
 - ModShift+equal,       Increase volume 15%
 - ModShift+m,           Mute all audio
 
-## My gecko-based user.js
-[pm-betterfox.js](https://github.com/pm-lack/pm-betterfox.js)
+## Notes
+[pm-betterfox.js](https://github.com/pm-lack/pm-betterfox.js) My gecko-based user.js
+Don't forget to the proprietary NVIDIA driver; nvidia-drm.modeset=1
 
 ## Credit
 - [placemouse](https://github.com/bakkeby/patches/wiki/placemouse) 
