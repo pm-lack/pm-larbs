@@ -1,3 +1,9 @@
+## TODO
+
+Update to dwm 6.6
+Swap to XLibre
+Auto-install zen-browser overides
+
 ## Install
 
 As root;
