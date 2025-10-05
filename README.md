@@ -4,6 +4,7 @@
 - Swap to XLibre
 - Auto-install zen-browser overides
 - Automated check to enable proprietary NVIDIA drivers
+- Rewrite and minimize scripts
 
 ## Install
 
