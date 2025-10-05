@@ -1,8 +1,6 @@
 ## TODO
 
-Update to dwm 6.6
-Swap to XLibre
-Auto-install zen-browser overides
+Update to dwm 6.6, swap to XLibre, auto-install zen-browser overides
 
 ## Install
 
