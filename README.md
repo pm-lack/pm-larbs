@@ -2,7 +2,7 @@
 
 - Update to dwm 6.6
 - Swap to XLibre
-- Auto-install zen-browser overides
+- Auto-install browser overides
 - Automated check to enable proprietary NVIDIA drivers
 - Rewrite and minimize scripts
 
