@@ -1,6 +1,6 @@
 ## TODO
 
-- Update to [dwm6.6]([https://dwm.suckless.org/patches/statusallmons/](https://github.com/pm-lack/dwm-6.6))
+- Update to [dwm6.6](https://dwm.suckless.org/patches/statusallmons/](https://github.com/pm-lack/dwm-6.6))
 - Swap to XLibre
 - Auto-install browser overides
 - Automated check to enable proprietary NVIDIA drivers
