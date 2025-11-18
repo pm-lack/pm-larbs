@@ -5,7 +5,6 @@
 - Auto-install browser overides
 - Automated check to enable proprietary NVIDIA drivers
 - Rewrite and minimize scripts
-- Toggle pywal theming
 
 ## Install
 
