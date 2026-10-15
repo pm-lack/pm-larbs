@@ -1,10 +1,6 @@
-## TODO
+## DEPRECATED
 
-- Update to [dwm6.6](https://github.com/pm-lack/dwm-6.6)
-- Swap to XLibre
-- Auto-install browser overides
-- Automated check to enable proprietary NVIDIA drivers
-- Rewrite and minimize scripts
+- pm-larbs has moved to [pomni](https://github.com/pm-lack/pomni/)
 
 ## Install
 
